@@ -1,4 +1,4 @@
-Evaluation Project - 1 
+* Evaluation Project - 1 
 Baseball Case Study :
 
 Problem Statement:
@@ -10,7 +10,7 @@ This dataset utilizes data from 2014 Major League Baseball seasons in order to d
 
 To understand the columns meaning, follow the link given below to understand the baseball statistics: https://en.wikipedia.org/wiki/Baseball_statistics
 
-Evaluation Project - 2
+* Evaluation Project - 2
 Avacado Project
 
 Problem Statement:
@@ -46,7 +46,7 @@ Task: One of Classification and other of Regression
 
 Do both tasks in the same .ipynb file and submit at single file. 
 
-Evaluation Project - 3
+* Evaluation Project - 3
 HR Analytics Project- Understanding the Attrition in HR
 
 Problem Statement:
